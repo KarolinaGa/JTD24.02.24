@@ -1,5 +1,5 @@
 ---
-title: 24-02-24
+title: Just the docs 
 layout: default
 ---
 
