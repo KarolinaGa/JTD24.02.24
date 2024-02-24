@@ -1,8 +1,8 @@
 ---
 title: Just the docs 
 layout: default
-has_children: true
 nav_order: 2
+has_children: true
 ---
 
 Technical writers have to work with SMEs to create documentation. A subject-matter expert, as the name suggests, is an expert in a particular field and some might be more difficult to work with than others.
