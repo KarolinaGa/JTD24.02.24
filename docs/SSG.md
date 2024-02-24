@@ -1,3 +1,8 @@
+---
+title: 24-02-24
+layout: default
+---
+
 Technical writers have to work with SMEs to create documentation. A subject-matter expert, as the name suggests, is an expert in a particular field and some might be more difficult to work with than others.
 
 Here are some tips that might help you reach an unresponsive SME:
