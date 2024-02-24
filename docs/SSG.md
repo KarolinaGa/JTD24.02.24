@@ -1,7 +1,7 @@
 ---
 title: Just the docs 
 layout: default
-has children: true
+has_children: true
 nav_order: 2
 ---
 
