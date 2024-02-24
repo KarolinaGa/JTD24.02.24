@@ -1,7 +1,8 @@
 ---
 title: Blabla
 layout: default
-nav_order: 3
+parent: Just the docs
+nav_order: 1
 ---
 
 Bla bla bla 

@@ -1,6 +1,7 @@
 ---
 title: Just the docs 
 layout: default
+has children: true
 nav_order: 2
 ---
 
